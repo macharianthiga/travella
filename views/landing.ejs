@@ -1,0 +1,29 @@
+<% include partials/header %>
+<div id="landing-wrapper">
+  <div class="container">
+    <script>
+      $(function() {
+        $('body').chocolate({
+          images		: ['../images/01.jpg', '../images/02.jpg','../images/03.jpg', '../images/04.jpg', '../images/05.jpg'],
+          interval	: 9000,
+          speed		: 5000,
+        });
+      });
+    </script>
+    <div class="landing-content">
+      <h1>Travella</h1>
+      <h3>Find fun places places near you! </h3>
+      <hr>
+      <a class="btn btn-default" href="/campgrounds"><strong><i class="fa fa-tree" aria-hidden="true"></i>     <span>Get Started</span></strong></a>
+    </div>
+  </div>
+
+
+
+
+
+
+</div>
+
+
+<% include partials/footer %>
