@@ -8,4 +8,4 @@ added by other users and leave comments. Users are also allowed to edit and dele
 I created this project with the aim of taking it to production but have since been tied up by other projects and have
 been unable to continue working on it. Hopefully, I can get serious about it and proceed :-)
 
-p.s: the ux/ui at signup and login are not the best.
+p.s: the ux/ui at signup and login is not the best.
